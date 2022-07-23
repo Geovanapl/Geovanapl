@@ -5,7 +5,7 @@
 ## Olá :hugs: Bem vindo(a) :smile_cat:
 <ul>
   <li>Meu nome é Geovana :white_heart:</li>
-  <li>Me interesso por desenvolvimento web :computer:</li>
+  <li>Tenho interesso por desenvolvimento web :computer:</li>
   <li>Atualmente estou estudando front-end 	:bookmark_tabs:</li>
 </ul>
 
