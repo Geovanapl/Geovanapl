@@ -15,7 +15,7 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 <br>
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/109865342/180624976-9eab8710-6b89-4a6d-a146-fd81823239a3.gif" width="200" height="200" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/109865342/182726035-7f59a009-8292-4176-8ae6-651eec3f6283.gif" width="400" height="250" />
 
 <div> 
 <h3>Redes de contato:</h3>
