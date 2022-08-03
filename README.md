@@ -16,6 +16,7 @@
 </div>
 <br>
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/109865342/182726035-7f59a009-8292-4176-8ae6-651eec3f6283.gif" width="400" height="250" />
+<br>
 
 <div> 
 <h3>Redes de contato:</h3>
