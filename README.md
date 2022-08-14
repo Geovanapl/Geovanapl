@@ -1,5 +1,5 @@
 <div>
- <img height="190em" src="https://github-status.vercel.app/api/top-langs/?username=Geovanapl&layout=compact&langs_count=7&theme=dark" align="right"/>
+ <img height="150em" src="https://github-status.vercel.app/api/top-langs/?username=Geovanapl&layout=compact&langs_count=7&theme=dark" align="right"/>
 </div>
  
 ## Olá :hugs: Bem vindo(a) :smile_cat:
